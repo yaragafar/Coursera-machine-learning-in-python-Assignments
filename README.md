@@ -1,1 +1,1 @@
-# Coursera-machine-learning-in-python-Assignments
+# machine-learning-in-python-Assignments
